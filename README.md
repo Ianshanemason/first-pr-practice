@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A tiny practice project for shiping your first pull request with Claude Code.
+A tiny practice project for shipping your first pull request with Claude Code.
 
 ## What's here
 
